@@ -1,0 +1,28 @@
+[2022-11-10T13:46:01.470-0300] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: dados_politicos.primeira_task manual__2022-11-10T16:45:34.904125+00:00 [queued]>
+[2022-11-10T13:46:01.551-0300] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: dados_politicos.primeira_task manual__2022-11-10T16:45:34.904125+00:00 [queued]>
+[2022-11-10T13:46:01.551-0300] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-10T13:46:01.552-0300] {taskinstance.py:1363} INFO - Starting attempt 1 of 1
+[2022-11-10T13:46:01.552-0300] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-10T13:46:01.815-0300] {taskinstance.py:1383} INFO - Executing <Task(BashOperator): primeira_task> on 2022-11-10 16:45:34.904125+00:00
+[2022-11-10T13:46:01.818-0300] {standard_task_runner.py:55} INFO - Started process 5451 to run task
+[2022-11-10T13:46:01.827-0300] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'dados_politicos', 'primeira_task', 'manual__2022-11-10T16:45:34.904125+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/dados_politicos.py', '--cfg-path', '/var/folders/tf/5c5cm4z11mvb4z72rkp1jvxw0000gn/T/tmpqsekmtmc']
+[2022-11-10T13:46:01.830-0300] {standard_task_runner.py:83} INFO - Job 3: Subtask primeira_task
+[2022-11-10T13:46:02.110-0300] {task_command.py:376} INFO - Running <TaskInstance: dados_politicos.primeira_task manual__2022-11-10T16:45:34.904125+00:00 [running]> on host mac-mikeias.local
+[2022-11-10T13:46:02.908-0300] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dados_politicos
+AIRFLOW_CTX_TASK_ID=primeira_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-10T16:45:34.904125+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-11-10T16:45:34.904125+00:00
+[2022-11-10T13:46:03.388-0300] {subprocess.py:63} INFO - Tmp dir root location: 
+ /var/folders/tf/5c5cm4z11mvb4z72rkp1jvxw0000gn/T
+[2022-11-10T13:46:03.390-0300] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'echo "Hello World"']
+[2022-11-10T13:46:03.399-0300] {subprocess.py:86} INFO - Output:
+[2022-11-10T13:46:03.625-0300] {subprocess.py:93} INFO - Hello World
+[2022-11-10T13:46:03.626-0300] {subprocess.py:97} INFO - Command exited with return code 0
+[2022-11-10T13:46:03.833-0300] {taskinstance.py:1401} INFO - Marking task as SUCCESS. dag_id=dados_politicos, task_id=primeira_task, execution_date=20221110T164534, start_date=20221110T164601, end_date=20221110T164603
+[2022-11-10T13:46:04.196-0300] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-11-10T13:46:04.363-0300] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
