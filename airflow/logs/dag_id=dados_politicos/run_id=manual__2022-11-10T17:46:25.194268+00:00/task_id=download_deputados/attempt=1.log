@@ -1,0 +1,30 @@
+[2022-11-10T14:46:50.805-0300] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: dados_politicos.download_deputados manual__2022-11-10T17:46:25.194268+00:00 [queued]>
+[2022-11-10T14:46:50.866-0300] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: dados_politicos.download_deputados manual__2022-11-10T17:46:25.194268+00:00 [queued]>
+[2022-11-10T14:46:50.866-0300] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-10T14:46:50.866-0300] {taskinstance.py:1363} INFO - Starting attempt 1 of 1
+[2022-11-10T14:46:50.866-0300] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-10T14:46:51.001-0300] {taskinstance.py:1383} INFO - Executing <Task(BashOperator): download_deputados> on 2022-11-10 17:46:25.194268+00:00
+[2022-11-10T14:46:51.034-0300] {standard_task_runner.py:55} INFO - Started process 10464 to run task
+[2022-11-10T14:46:51.079-0300] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'dados_politicos', 'download_deputados', 'manual__2022-11-10T17:46:25.194268+00:00', '--job-id', '27', '--raw', '--subdir', 'DAGS_FOLDER/dados_politicos.py', '--cfg-path', '/var/folders/tf/5c5cm4z11mvb4z72rkp1jvxw0000gn/T/tmp8o02a8oq']
+[2022-11-10T14:46:51.088-0300] {standard_task_runner.py:83} INFO - Job 27: Subtask download_deputados
+[2022-11-10T14:46:51.932-0300] {task_command.py:376} INFO - Running <TaskInstance: dados_politicos.download_deputados manual__2022-11-10T17:46:25.194268+00:00 [running]> on host mac-mikeias.local
+[2022-11-10T14:46:52.450-0300] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dados_politicos
+AIRFLOW_CTX_TASK_ID=download_deputados
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-10T17:46:25.194268+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-11-10T17:46:25.194268+00:00
+[2022-11-10T14:46:52.452-0300] {subprocess.py:63} INFO - Tmp dir root location: 
+ /var/folders/tf/5c5cm4z11mvb4z72rkp1jvxw0000gn/T
+[2022-11-10T14:46:52.454-0300] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'curl "https://dadosabertos.camara.leg.br/api/v2/deputados" -o /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/dados/temp/deputados.json']
+[2022-11-10T14:46:52.464-0300] {subprocess.py:86} INFO - Output:
+[2022-11-10T14:46:52.623-0300] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2022-11-10T14:46:52.624-0300] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2022-11-10T14:46:53.352-0300] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  175k    0  175k    0     0   242k      0 --:--:-- --:--:-- --:--:--  241k
+[2022-11-10T14:46:53.353-0300] {subprocess.py:97} INFO - Command exited with return code 0
+[2022-11-10T14:46:53.632-0300] {taskinstance.py:1401} INFO - Marking task as SUCCESS. dag_id=dados_politicos, task_id=download_deputados, execution_date=20221110T174625, start_date=20221110T174650, end_date=20221110T174653
+[2022-11-10T14:46:53.719-0300] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-11-10T14:46:53.807-0300] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

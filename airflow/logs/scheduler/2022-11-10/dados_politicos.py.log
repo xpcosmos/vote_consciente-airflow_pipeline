@@ -283,3 +283,438 @@ IndexError: Replacement index 0 out of range for positional args tuple
 [2022-11-10T14:05:22.284-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
 [2022-11-10T14:05:22.512-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:05:22.512-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
 [2022-11-10T14:05:25.939-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:06:41.467-0300] {processor.py:154} INFO - Started process (PID=7220) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:06:41.556-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:06:41.558-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:06:41.557-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:06:41.854-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:06:47.247-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:06:47.246-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:06:47.310-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:06:47.310-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:06:41.725176+00:00, run_after=2022-11-11T14:06:41.725176+00:00
+[2022-11-10T14:06:47.360-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.895 seconds
+[2022-11-10T14:07:37.257-0300] {processor.py:154} INFO - Started process (PID=7290) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:07:37.321-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:07:37.323-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:07:37.323-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:07:37.454-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:07:41.331-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:07:41.331-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:07:41.378-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:07:41.378-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:07:37.401090+00:00, run_after=2022-11-11T14:07:37.401090+00:00
+[2022-11-10T14:07:41.432-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 4.176 seconds
+[2022-11-10T14:08:18.698-0300] {processor.py:154} INFO - Started process (PID=7361) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:08:18.728-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:08:18.729-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:08:18.729-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:08:18.857-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:08:22.839-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:08:22.839-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:08:22.895-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:08:22.895-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:08:18.829818+00:00, run_after=2022-11-11T14:08:18.829818+00:00
+[2022-11-10T14:08:22.995-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 4.299 seconds
+[2022-11-10T14:09:00.671-0300] {processor.py:154} INFO - Started process (PID=7396) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:09:00.717-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:09:00.718-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:09:00.717-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:09:00.961-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:09:06.378-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:09:06.377-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:09:06.438-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:09:06.438-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:09:00.919806+00:00, run_after=2022-11-11T14:09:00.919806+00:00
+[2022-11-10T14:09:06.519-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.850 seconds
+[2022-11-10T14:09:43.140-0300] {processor.py:154} INFO - Started process (PID=7451) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:09:43.185-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:09:43.186-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:09:43.186-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:09:43.409-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:09:47.369-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:09:47.369-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:09:47.418-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:09:47.418-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:09:43.377985+00:00, run_after=2022-11-11T14:09:43.377985+00:00
+[2022-11-10T14:09:47.485-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 4.347 seconds
+[2022-11-10T14:10:55.526-0300] {processor.py:154} INFO - Started process (PID=7500) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:10:55.597-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:10:55.599-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:10:55.598-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:10:55.892-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:10:55.887-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 18
+    bash_command=  'mkdir {}'.format(path_temp_dir)
+                   
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2022-11-10T14:10:55.893-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:10:58.807-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 3.283 seconds
+[2022-11-10T14:11:36.643-0300] {processor.py:154} INFO - Started process (PID=7631) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:11:36.689-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:11:36.690-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:11:36.690-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:11:36.783-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:11:36.769-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 18
+    bash_command=  'mkdir {}'.format(path_temp_dir)
+                   
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2022-11-10T14:11:36.784-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:11:37.889-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 1.248 seconds
+[2022-11-10T14:12:13.408-0300] {processor.py:154} INFO - Started process (PID=7719) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:12:13.456-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:12:13.457-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:12:13.456-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:12:13.607-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:12:20.404-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:12:20.403-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:12:20.458-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:12:20.458-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:12:13.542419+00:00, run_after=2022-11-11T14:12:13.542419+00:00
+[2022-11-10T14:12:20.525-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 7.119 seconds
+[2022-11-10T14:12:54.213-0300] {processor.py:154} INFO - Started process (PID=7791) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:12:54.247-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:12:54.248-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:12:54.248-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:12:54.355-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:12:58.623-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:12:58.622-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:12:58.674-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:12:58.674-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:12:54.323499+00:00, run_after=2022-11-11T14:12:54.323499+00:00
+[2022-11-10T14:12:58.762-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 4.551 seconds
+[2022-11-10T14:13:35.955-0300] {processor.py:154} INFO - Started process (PID=7859) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:13:35.988-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:13:35.989-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:13:35.988-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:13:36.112-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:13:36.068-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 23, in <module>
+    bash_command = 'curl "{}" -o {}/deputados.json'.format(deputados_url, )
+IndexError: Replacement index 1 out of range for positional args tuple
+[2022-11-10T14:13:36.114-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:13:37.122-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 1.169 seconds
+[2022-11-10T14:14:17.536-0300] {processor.py:154} INFO - Started process (PID=7942) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:14:17.605-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:14:17.607-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:14:17.607-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:14:17.721-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:14:17.705-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 23
+    bash_command = 'curl "{}" -o {}/deputados.json'.format(deputados_url, path_temp_dir)
+                   
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2022-11-10T14:14:17.722-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:14:19.016-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 1.485 seconds
+[2022-11-10T14:15:01.800-0300] {processor.py:154} INFO - Started process (PID=8009) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:15:01.884-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:15:01.885-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:15:01.885-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:15:02.010-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:15:01.994-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 27
+    )
+    ^
+SyntaxError: unmatched ')'
+[2022-11-10T14:15:02.010-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:15:03.212-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 1.414 seconds
+[2022-11-10T14:15:47.402-0300] {processor.py:154} INFO - Started process (PID=8094) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:15:47.521-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:15:47.522-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:15:47.522-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:15:47.667-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:15:47.619-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 25, in <module>
+    task1 >> task2
+NameError: name 'task1' is not defined
+[2022-11-10T14:15:47.668-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:15:48.429-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 1.029 seconds
+[2022-11-10T14:16:23.792-0300] {processor.py:154} INFO - Started process (PID=8157) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:16:23.826-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:16:23.827-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:16:23.826-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:16:24.062-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:16:23.953-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 26, in <module>
+    task1 >> task2
+NameError: name 'task1' is not defined
+[2022-11-10T14:16:24.063-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:16:26.530-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 2.740 seconds
+[2022-11-10T14:17:02.262-0300] {processor.py:154} INFO - Started process (PID=8216) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:17:02.316-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:17:02.317-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:17:02.317-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:17:02.488-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:17:13.073-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:17:13.072-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:17:13.225-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:17:13.225-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:17:02.461661+00:00, run_after=2022-11-11T14:17:02.461661+00:00
+[2022-11-10T14:17:13.367-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 11.106 seconds
+[2022-11-10T14:17:52.218-0300] {processor.py:154} INFO - Started process (PID=8291) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:17:52.263-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:17:52.264-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:17:52.264-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:17:52.360-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:17:56.294-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:17:56.293-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:17:56.344-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:17:56.344-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:17:52.336352+00:00, run_after=2022-11-11T14:17:52.336352+00:00
+[2022-11-10T14:17:56.407-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 4.191 seconds
+[2022-11-10T14:19:14.642-0300] {processor.py:154} INFO - Started process (PID=8341) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:19:14.824-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:19:14.826-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:19:14.825-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:19:16.760-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:19:58.377-0300] {processor.py:154} INFO - Started process (PID=8394) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:19:58.596-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:19:58.597-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:19:58.597-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:20:00.634-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:20:56.578-0300] {processor.py:154} INFO - Started process (PID=8479) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:20:56.763-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:20:56.765-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:20:56.764-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:20:58.213-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:21:06.862-0300] {processor.py:154} INFO - Started process (PID=8538) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:21:06.863-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:21:06.863-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:21:06.863-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:21:06.896-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:21:17.367-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:21:17.366-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:21:17.462-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:21:17.462-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:21:06.882796+00:00, run_after=2022-11-11T14:21:06.882796+00:00
+[2022-11-10T14:21:17.538-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 10.678 seconds
+[2022-11-10T14:22:08.446-0300] {processor.py:154} INFO - Started process (PID=8584) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:22:08.506-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:22:08.508-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:22:08.508-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:22:08.682-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:22:13.281-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:22:13.280-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:22:13.329-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:22:13.329-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:22:08.607873+00:00, run_after=2022-11-11T14:22:08.607873+00:00
+[2022-11-10T14:22:13.387-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 4.943 seconds
+[2022-11-10T14:22:49.756-0300] {processor.py:154} INFO - Started process (PID=8652) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:22:49.961-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:22:49.963-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:22:49.962-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:22:50.412-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:22:55.131-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:22:55.130-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:22:55.178-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:22:55.178-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:22:50.176690+00:00, run_after=2022-11-11T14:22:50.176690+00:00
+[2022-11-10T14:22:55.243-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.488 seconds
+[2022-11-10T14:23:35.305-0300] {processor.py:154} INFO - Started process (PID=8698) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:23:35.355-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:23:35.357-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:23:35.356-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:23:35.517-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:23:40.976-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:23:40.975-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:23:41.025-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:23:41.024-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:23:35.451209+00:00, run_after=2022-11-11T14:23:35.451209+00:00
+[2022-11-10T14:23:41.076-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.773 seconds
+[2022-11-10T14:24:42.689-0300] {processor.py:154} INFO - Started process (PID=8739) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:24:42.770-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:24:42.772-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:24:42.771-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:24:43.529-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:26:13.041-0300] {processor.py:154} INFO - Started process (PID=8872) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:26:13.115-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:26:13.117-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:26:13.116-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:26:13.320-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:26:18.335-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:26:18.335-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:26:18.398-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:26:18.397-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:26:13.255236+00:00, run_after=2022-11-11T14:26:13.255236+00:00
+[2022-11-10T14:26:18.476-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.436 seconds
+[2022-11-10T14:26:53.676-0300] {processor.py:154} INFO - Started process (PID=8933) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:26:53.719-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:26:53.721-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:26:53.720-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:26:53.877-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:27:00.428-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:27:00.427-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:27:00.534-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:27:00.534-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:26:53.824468+00:00, run_after=2022-11-11T14:26:53.824468+00:00
+[2022-11-10T14:27:00.631-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 6.957 seconds
+[2022-11-10T14:27:39.158-0300] {processor.py:154} INFO - Started process (PID=8978) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:27:39.214-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:27:39.216-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:27:39.216-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:27:39.348-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:27:45.765-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:27:45.764-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:27:45.864-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:27:45.863-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:27:39.291574+00:00, run_after=2022-11-11T14:27:39.291574+00:00
+[2022-11-10T14:27:46.042-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 6.886 seconds
+[2022-11-10T14:28:18.612-0300] {processor.py:154} INFO - Started process (PID=9040) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:28:18.613-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:28:18.614-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:28:18.614-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:28:18.652-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:28:21.495-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:28:21.495-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:28:21.545-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:28:21.545-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:28:18.637736+00:00, run_after=2022-11-11T14:28:18.637736+00:00
+[2022-11-10T14:28:21.607-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 2.997 seconds
+[2022-11-10T14:28:53.788-0300] {processor.py:154} INFO - Started process (PID=9070) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:28:53.789-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:28:53.790-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:28:53.790-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:28:53.842-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:28:56.082-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:28:56.081-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:28:56.126-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:28:56.126-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:28:53.811026+00:00, run_after=2022-11-11T14:28:53.811026+00:00
+[2022-11-10T14:28:56.177-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 2.391 seconds
+[2022-11-10T14:29:32.612-0300] {processor.py:154} INFO - Started process (PID=9115) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:29:32.657-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:29:32.658-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:29:32.658-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:29:32.955-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:29:39.513-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:29:39.512-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:29:39.570-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:29:39.570-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:29:32.890542+00:00, run_after=2022-11-11T14:29:32.890542+00:00
+[2022-11-10T14:29:39.890-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 7.280 seconds
+[2022-11-10T14:30:14.625-0300] {processor.py:154} INFO - Started process (PID=9169) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:30:14.659-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:30:14.660-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:30:14.660-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:30:14.793-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:30:23.741-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:30:23.741-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:30:23.796-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:30:23.796-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:30:14.744391+00:00, run_after=2022-11-11T14:30:14.744391+00:00
+[2022-11-10T14:30:24.022-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 9.399 seconds
+[2022-11-10T14:31:05.993-0300] {processor.py:154} INFO - Started process (PID=9215) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:31:06.049-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:31:06.050-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:31:06.050-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:31:06.585-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:31:10.558-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:31:10.557-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:31:10.604-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:31:10.604-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:31:06.433220+00:00, run_after=2022-11-11T14:31:06.433220+00:00
+[2022-11-10T14:31:10.663-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 4.671 seconds
+[2022-11-10T14:31:44.671-0300] {processor.py:154} INFO - Started process (PID=9256) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:31:44.693-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:31:44.694-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:31:44.694-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:31:44.766-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:31:47.881-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:31:47.881-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:31:47.927-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:31:47.927-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:31:44.739711+00:00, run_after=2022-11-11T14:31:44.739711+00:00
+[2022-11-10T14:31:47.977-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 3.308 seconds
+[2022-11-10T14:32:47.708-0300] {processor.py:154} INFO - Started process (PID=9294) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:32:47.771-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:32:47.773-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:32:47.772-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:32:48.432-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:34:44.251-0300] {processor.py:154} INFO - Started process (PID=9435) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:34:44.528-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:34:44.529-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:34:44.528-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:34:47.873-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:35:11.088-0300] {processor.py:154} INFO - Started process (PID=9500) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:35:11.133-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:35:11.134-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:35:11.134-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:35:11.423-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:35:16.579-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:35:16.578-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:35:16.641-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:35:16.641-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:35:11.327714+00:00, run_after=2022-11-11T14:35:11.327714+00:00
+[2022-11-10T14:35:16.747-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.660 seconds
+[2022-11-10T14:35:53.967-0300] {processor.py:154} INFO - Started process (PID=9562) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:35:54.029-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:35:54.031-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:35:54.030-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:35:54.133-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:35:59.222-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:35:59.221-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:35:59.266-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:35:59.266-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:35:54.105576+00:00, run_after=2022-11-11T14:35:54.105576+00:00
+[2022-11-10T14:35:59.319-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.353 seconds
+[2022-11-10T14:36:37.026-0300] {processor.py:154} INFO - Started process (PID=9610) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:36:37.072-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:36:37.073-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:36:37.072-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:36:37.317-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:36:42.452-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:36:42.451-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:36:42.501-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:36:42.501-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:36:37.289223+00:00, run_after=2022-11-11T14:36:37.289223+00:00
+[2022-11-10T14:36:42.556-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.531 seconds
+[2022-11-10T14:37:18.746-0300] {processor.py:154} INFO - Started process (PID=9663) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:37:18.828-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:37:18.830-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:37:18.830-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:37:18.922-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:37:24.760-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:37:24.760-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:37:24.808-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:37:24.808-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:37:18.897341+00:00, run_after=2022-11-11T14:37:18.897341+00:00
+[2022-11-10T14:37:24.885-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 6.141 seconds
+[2022-11-10T14:38:01.879-0300] {processor.py:154} INFO - Started process (PID=9735) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:38:01.922-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:38:01.923-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:38:01.923-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:38:02.070-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:38:02.050-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 19, in <module>
+    bash_command=  '[[ ! -d {} ]] && mkdir {}  exit 0'.format(path_temp_dir),
+IndexError: Replacement index 1 out of range for positional args tuple
+[2022-11-10T14:38:02.071-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:38:03.272-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 1.394 seconds
+[2022-11-10T14:38:42.394-0300] {processor.py:154} INFO - Started process (PID=9782) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:38:42.437-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:38:42.439-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:38:42.438-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:38:42.582-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:38:42.535-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 19, in <module>
+    bash_command=  '[[ ! -d {} ]] && mkdir {}; exit 0'.format(path_temp_dir),
+IndexError: Replacement index 1 out of range for positional args tuple
+[2022-11-10T14:38:42.583-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:38:43.262-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 0.869 seconds
+[2022-11-10T14:39:28.047-0300] {processor.py:154} INFO - Started process (PID=9840) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:39:28.103-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:39:28.104-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:39:28.104-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:39:28.324-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:39:28.311-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 19, in <module>
+    bash_command=  '[[ ! -d {} ]] && { mkdir {}; exit 0; }'.format(path_temp_dir),
+ValueError: unexpected '{' in field name
+[2022-11-10T14:39:28.325-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:39:28.733-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 0.687 seconds
+[2022-11-10T14:40:09.769-0300] {processor.py:154} INFO - Started process (PID=9901) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:40:09.867-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:40:09.869-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:40:09.868-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:40:10.003-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:40:09.967-0300] {dagbag.py:342} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py", line 19, in <module>
+    bash_command=  '[[ ! -d {} ]] &&  mkdir {}; exit 0;'.format(path_temp_dir),
+IndexError: Replacement index 1 out of range for positional args tuple
+[2022-11-10T14:40:10.004-0300] {processor.py:768} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:40:10.538-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 0.772 seconds
+[2022-11-10T14:41:18.264-0300] {processor.py:154} INFO - Started process (PID=9964) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:41:18.464-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:41:18.466-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:41:18.466-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:41:19.096-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:41:25.061-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:41:25.060-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:41:25.103-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:41:25.103-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:41:18.967914+00:00, run_after=2022-11-11T14:41:18.967914+00:00
+[2022-11-10T14:41:25.160-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 6.898 seconds
+[2022-11-10T14:42:04.264-0300] {processor.py:154} INFO - Started process (PID=10054) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:42:04.326-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:42:04.327-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:42:04.327-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:42:04.535-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:42:11.152-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:42:11.152-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:42:11.225-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:42:11.225-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:42:04.487425+00:00, run_after=2022-11-11T14:42:04.487425+00:00
+[2022-11-10T14:42:11.377-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 7.115 seconds
+[2022-11-10T14:42:46.575-0300] {processor.py:154} INFO - Started process (PID=10105) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:42:46.617-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:42:46.619-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:42:46.618-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:42:46.759-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:42:50.159-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:42:50.158-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:42:50.208-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:42:50.207-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:42:46.736339+00:00, run_after=2022-11-11T14:42:46.736339+00:00
+[2022-11-10T14:42:50.263-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 3.689 seconds
+[2022-11-10T14:43:26.077-0300] {processor.py:154} INFO - Started process (PID=10171) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:43:26.123-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:43:26.124-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:43:26.123-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:43:26.299-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:43:32.521-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:43:32.520-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:43:32.567-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:43:32.566-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:43:26.249859+00:00, run_after=2022-11-11T14:43:26.249859+00:00
+[2022-11-10T14:43:32.683-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 6.608 seconds
+[2022-11-10T14:44:09.947-0300] {processor.py:154} INFO - Started process (PID=10232) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:44:10.222-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:44:10.223-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:44:10.223-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:44:10.745-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:44:19.700-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:44:19.700-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:44:19.771-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:44:19.771-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:44:10.633394+00:00, run_after=2022-11-11T14:44:10.633394+00:00
+[2022-11-10T14:44:19.873-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 9.928 seconds
+[2022-11-10T14:44:53.505-0300] {processor.py:154} INFO - Started process (PID=10301) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:44:53.695-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:44:53.697-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:44:53.697-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:44:54.087-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:45:02.747-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:45:02.747-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:45:02.831-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:45:02.831-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:44:53.905939+00:00, run_after=2022-11-11T14:44:53.905939+00:00
+[2022-11-10T14:45:03.100-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 9.597 seconds
+[2022-11-10T14:45:46.872-0300] {processor.py:154} INFO - Started process (PID=10358) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:45:46.933-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:45:46.935-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:45:46.934-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:45:47.123-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:45:51.958-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:45:51.958-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:45:52.004-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:45:52.004-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:45:47.054343+00:00, run_after=2022-11-11T14:45:47.054343+00:00
+[2022-11-10T14:45:52.129-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 5.259 seconds
+[2022-11-10T14:46:30.637-0300] {processor.py:154} INFO - Started process (PID=10412) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:46:30.758-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:46:30.760-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:46:30.759-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:46:31.117-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:46:36.885-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:46:36.885-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:46:36.940-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:46:36.939-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:46:30.921100+00:00, run_after=2022-11-11T14:46:30.921100+00:00
+[2022-11-10T14:46:37.056-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 6.420 seconds
+[2022-11-10T14:47:17.324-0300] {processor.py:154} INFO - Started process (PID=10491) to work on /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:47:17.393-0300] {processor.py:756} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py for tasks to queue
+[2022-11-10T14:47:17.395-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:47:17.395-0300] {dagbag.py:537} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:47:17.501-0300] {processor.py:766} INFO - DAG(s) dict_keys(['dados_politicos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py
+[2022-11-10T14:47:21.511-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:47:21.510-0300] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-10T14:47:21.562-0300] {logging_mixin.py:120} INFO - [2022-11-10T14:47:21.562-0300] {dag.py:3336} INFO - Setting next_dagrun for dados_politicos to 2022-11-10T14:47:17.477843+00:00, run_after=2022-11-11T14:47:17.477843+00:00
+[2022-11-10T14:47:21.632-0300] {processor.py:176} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py took 4.310 seconds

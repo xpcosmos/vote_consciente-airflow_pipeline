@@ -456,3 +456,693 @@ File Path                                                                       
 -----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
 /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   7129  3.06s             1           0  44.00s          2022-11-10T17:04:09
 ================================================================================
+[2022-11-10T14:06:03.694-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   7129  33.49s            1           0  44.00s          2022-11-10T17:04:09
+================================================================================
+[2022-11-10T14:06:20.920-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 7129 started at 2022-11-10T17:05:30.200112+00:00 has timed out, killing it.
+[2022-11-10T14:06:34.545-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   7220  13.20s            1           0  44.00s          2022-11-10T17:04:09
+================================================================================
+[2022-11-10T14:07:04.961-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  26.37s          2022-11-10T17:06:47
+================================================================================
+[2022-11-10T14:07:35.533-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   7290  17.31s            1           0  26.37s          2022-11-10T17:06:47
+================================================================================
+[2022-11-10T14:08:06.048-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  23.54s          2022-11-10T17:07:41
+================================================================================
+[2022-11-10T14:08:36.592-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  11.11s          2022-11-10T17:08:23
+================================================================================
+[2022-11-10T14:09:06.912-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:09:07.011-0300] {manager.py:727} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:09:07.054-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  13.00s          2022-11-10T17:09:06
+================================================================================
+[2022-11-10T14:09:37.623-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   7451  0.00s             1           0  13.00s          2022-11-10T17:09:06
+================================================================================
+[2022-11-10T14:10:08.216-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  10.26s          2022-11-10T17:09:47
+================================================================================
+[2022-11-10T14:10:38.735-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   7500  20.27s            1           0  10.26s          2022-11-10T17:09:47
+================================================================================
+[2022-11-10T14:11:09.175-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  40.56s          2022-11-10T17:10:59
+================================================================================
+[2022-11-10T14:11:20.352-0300] {manager.py:520} INFO - DAG dados_politicos is missing and will be deactivated.
+[2022-11-10T14:11:20.361-0300] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2022-11-10T14:11:20.367-0300] {manager.py:534} INFO - Deleted DAG dados_politicos in serialized_dag table
+[2022-11-10T14:11:39.666-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  8.60s           2022-11-10T17:11:38
+================================================================================
+[2022-11-10T14:12:10.189-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   7719  2.04s             0           1  8.60s           2022-11-10T17:11:38
+================================================================================
+[2022-11-10T14:12:40.677-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  12.70s          2022-11-10T17:12:20
+================================================================================
+[2022-11-10T14:13:11.185-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  8.25s           2022-11-10T17:12:59
+================================================================================
+[2022-11-10T14:13:41.494-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  7.90s           2022-11-10T17:13:37
+================================================================================
+[2022-11-10T14:14:06.921-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:14:06.992-0300] {manager.py:727} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:14:12.115-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   7942  4.07s             0           1  7.90s           2022-11-10T17:13:37
+================================================================================
+[2022-11-10T14:14:21.234-0300] {manager.py:520} INFO - DAG dados_politicos is missing and will be deactivated.
+[2022-11-10T14:14:21.329-0300] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2022-11-10T14:14:21.334-0300] {manager.py:534} INFO - Deleted DAG dados_politicos in serialized_dag table
+[2022-11-10T14:14:42.616-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  11.15s          2022-11-10T17:14:19
+================================================================================
+[2022-11-10T14:15:13.094-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  13.67s          2022-11-10T17:15:03
+================================================================================
+[2022-11-10T14:15:43.574-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8094  9.76s             0           1  13.67s          2022-11-10T17:15:03
+================================================================================
+[2022-11-10T14:16:14.062-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  14.85s          2022-11-10T17:15:48
+================================================================================
+[2022-11-10T14:16:44.657-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  7.62s           2022-11-10T17:16:26
+================================================================================
+[2022-11-10T14:17:14.801-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  16.88s          2022-11-10T17:17:13
+================================================================================
+[2022-11-10T14:17:45.015-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8291  1.02s             1           0  16.88s          2022-11-10T17:17:13
+================================================================================
+[2022-11-10T14:18:15.799-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  12.78s          2022-11-10T17:17:56
+================================================================================
+[2022-11-10T14:18:46.641-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8341  19.27s            1           0  12.78s          2022-11-10T17:17:56
+================================================================================
+[2022-11-10T14:19:07.015-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:19:07.508-0300] {manager.py:727} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:19:17.683-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 8341 started at 2022-11-10T17:18:27.372640+00:00 has timed out, killing it.
+[2022-11-10T14:19:17.833-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8394  0.01s             1           0  12.78s          2022-11-10T17:17:56
+================================================================================
+[2022-11-10T14:19:48.288-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8394  30.46s            1           0  12.78s          2022-11-10T17:17:56
+================================================================================
+[2022-11-10T14:20:08.690-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 8394 started at 2022-11-10T17:19:17.825947+00:00 has timed out, killing it.
+[2022-11-10T14:20:18.945-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8479  10.16s            1           0  12.78s          2022-11-10T17:17:56
+================================================================================
+[2022-11-10T14:20:49.628-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8479  40.84s            1           0  12.78s          2022-11-10T17:17:56
+================================================================================
+[2022-11-10T14:20:58.843-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 8479 started at 2022-11-10T17:20:08.783360+00:00 has timed out, killing it.
+[2022-11-10T14:21:19.912-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  18.97s          2022-11-10T17:21:17
+================================================================================
+[2022-11-10T14:21:50.437-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8584  2.03s             1           0  18.97s          2022-11-10T17:21:17
+================================================================================
+[2022-11-10T14:22:20.865-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  25.34s          2022-11-10T17:22:13
+================================================================================
+[2022-11-10T14:22:51.382-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8652  7.11s             1           0  25.34s          2022-11-10T17:22:13
+================================================================================
+[2022-11-10T14:23:21.873-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  11.33s          2022-11-10T17:22:55
+================================================================================
+[2022-11-10T14:23:52.399-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  15.45s          2022-11-10T17:23:41
+================================================================================
+[2022-11-10T14:24:07.641-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:24:08.200-0300] {manager.py:727} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:24:22.434-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8739  10.14s            1           0  15.45s          2022-11-10T17:23:41
+================================================================================
+[2022-11-10T14:24:52.942-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8739  40.65s            1           0  15.45s          2022-11-10T17:23:41
+================================================================================
+[2022-11-10T14:25:02.475-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 8739 started at 2022-11-10T17:24:12.295923+00:00 has timed out, killing it.
+[2022-11-10T14:25:23.424-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8795  20.34s            1           0  15.45s          2022-11-10T17:23:41
+================================================================================
+[2022-11-10T14:25:53.997-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 8795 started at 2022-11-10T17:25:03.084729+00:00 has timed out, killing it.
+[2022-11-10T14:25:54.985-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8872  0.01s             1           0  15.45s          2022-11-10T17:23:41
+================================================================================
+[2022-11-10T14:26:25.393-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  23.82s          2022-11-10T17:26:18
+================================================================================
+[2022-11-10T14:26:55.927-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   8933  7.09s             1           0  23.82s          2022-11-10T17:26:18
+================================================================================
+[2022-11-10T14:27:26.308-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  12.12s          2022-11-10T17:27:00
+================================================================================
+[2022-11-10T14:27:56.655-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  15.13s          2022-11-10T17:27:46
+================================================================================
+[2022-11-10T14:28:27.038-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  4.98s           2022-11-10T17:28:21
+================================================================================
+[2022-11-10T14:28:57.452-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  4.51s           2022-11-10T17:28:56
+================================================================================
+[2022-11-10T14:29:07.658-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:29:07.661-0300] {manager.py:727} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:29:27.871-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9115  1.02s             1           0  4.51s           2022-11-10T17:28:56
+================================================================================
+[2022-11-10T14:29:58.402-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  13.42s          2022-11-10T17:29:40
+================================================================================
+[2022-11-10T14:30:28.418-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  13.79s          2022-11-10T17:30:24
+================================================================================
+[2022-11-10T14:30:58.920-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9215  4.06s             1           0  13.79s          2022-11-10T17:30:24
+================================================================================
+[2022-11-10T14:31:29.233-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  16.12s          2022-11-10T17:31:10
+================================================================================
+[2022-11-10T14:31:59.319-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  7.31s           2022-11-10T17:31:48
+================================================================================
+[2022-11-10T14:32:29.771-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9294  11.17s            1           0  7.31s           2022-11-10T17:31:48
+================================================================================
+[2022-11-10T14:33:00.319-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9294  41.71s            1           0  7.31s           2022-11-10T17:31:48
+================================================================================
+[2022-11-10T14:33:08.615-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 9294 started at 2022-11-10T17:32:18.605596+00:00 has timed out, killing it.
+[2022-11-10T14:33:30.985-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9366  22.33s            1           0  7.31s           2022-11-10T17:31:48
+================================================================================
+[2022-11-10T14:33:59.467-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 9366 started at 2022-11-10T17:33:08.651849+00:00 has timed out, killing it.
+[2022-11-10T14:34:02.001-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9435  2.04s             1           0  7.31s           2022-11-10T17:31:48
+================================================================================
+[2022-11-10T14:34:09.479-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:34:10.678-0300] {manager.py:727} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:34:32.019-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9435  32.06s            1           0  7.31s           2022-11-10T17:31:48
+================================================================================
+[2022-11-10T14:34:50.355-0300] {manager.py:1133} ERROR - Processor for /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py with PID 9435 started at 2022-11-10T17:33:59.962020+00:00 has timed out, killing it.
+[2022-11-10T14:35:02.624-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9500  12.17s            1           0  7.31s           2022-11-10T17:31:48
+================================================================================
+[2022-11-10T14:35:33.217-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  26.63s          2022-11-10T17:35:17
+================================================================================
+[2022-11-10T14:36:03.697-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  11.85s          2022-11-10T17:35:59
+================================================================================
+[2022-11-10T14:36:34.224-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9610  4.08s             1           0  11.85s          2022-11-10T17:35:59
+================================================================================
+[2022-11-10T14:37:04.939-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  12.73s          2022-11-10T17:36:42
+================================================================================
+[2022-11-10T14:37:35.421-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  12.17s          2022-11-10T17:37:25
+================================================================================
+[2022-11-10T14:38:05.488-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  7.74s           2022-11-10T17:38:03
+================================================================================
+[2022-11-10T14:38:35.931-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9782  2.03s             0           1  7.74s           2022-11-10T17:38:03
+================================================================================
+[2022-11-10T14:39:06.392-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  9.54s           2022-11-10T17:38:43
+================================================================================
+[2022-11-10T14:39:09.797-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:39:09.847-0300] {manager.py:727} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:39:28.922-0300] {manager.py:520} INFO - DAG dados_politicos is missing and will be deactivated.
+[2022-11-10T14:39:28.931-0300] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2022-11-10T14:39:28.937-0300] {manager.py:534} INFO - Deleted DAG dados_politicos in serialized_dag table
+[2022-11-10T14:39:36.851-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  15.39s          2022-11-10T17:39:28
+================================================================================
+[2022-11-10T14:40:07.411-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9901  8.12s             0           1  15.39s          2022-11-10T17:39:28
+================================================================================
+[2022-11-10T14:40:38.043-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           0           1  11.46s          2022-11-10T17:40:10
+================================================================================
+[2022-11-10T14:41:08.509-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py   9964  27.37s            0           1  11.46s          2022-11-10T17:40:10
+================================================================================
+[2022-11-10T14:41:38.737-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  44.35s          2022-11-10T17:41:25
+================================================================================
+[2022-11-10T14:42:09.213-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py  10054  13.19s            1           0  44.35s          2022-11-10T17:41:25
+================================================================================
+[2022-11-10T14:42:39.817-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  15.69s          2022-11-10T17:42:11
+================================================================================
+[2022-11-10T14:43:09.907-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  8.72s           2022-11-10T17:42:50
+================================================================================
+[2022-11-10T14:43:39.966-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  12.36s          2022-11-10T17:43:33
+================================================================================
+[2022-11-10T14:44:10.438-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:44:10.552-0300] {manager.py:727} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T14:44:10.613-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py  10232  7.27s             1           0  12.36s          2022-11-10T17:43:33
+================================================================================
+[2022-11-10T14:44:41.071-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  16.89s          2022-11-10T17:44:20
+================================================================================
+[2022-11-10T14:45:11.540-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  12.93s          2022-11-10T17:45:03
+================================================================================
+[2022-11-10T14:45:42.134-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py  10358  8.12s             1           0  12.93s          2022-11-10T17:45:03
+================================================================================
+[2022-11-10T14:46:12.581-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  18.44s          2022-11-10T17:45:52
+================================================================================
+[2022-11-10T14:46:43.315-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py                           1           0  14.37s          2022-11-10T17:46:37
+================================================================================
+[2022-11-10T14:47:14.104-0300] {manager.py:846} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags/dados_politicos.py  10491  6.17s             1           0  14.37s          2022-11-10T17:46:37
+================================================================================

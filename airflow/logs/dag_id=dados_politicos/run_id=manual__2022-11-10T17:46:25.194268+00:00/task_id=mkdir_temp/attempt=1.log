@@ -1,0 +1,27 @@
+[2022-11-10T14:46:42.017-0300] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: dados_politicos.mkdir_temp manual__2022-11-10T17:46:25.194268+00:00 [queued]>
+[2022-11-10T14:46:42.043-0300] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: dados_politicos.mkdir_temp manual__2022-11-10T17:46:25.194268+00:00 [queued]>
+[2022-11-10T14:46:42.044-0300] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-10T14:46:42.044-0300] {taskinstance.py:1363} INFO - Starting attempt 1 of 1
+[2022-11-10T14:46:42.044-0300] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-11-10T14:46:42.070-0300] {taskinstance.py:1383} INFO - Executing <Task(BashOperator): mkdir_temp> on 2022-11-10 17:46:25.194268+00:00
+[2022-11-10T14:46:42.073-0300] {standard_task_runner.py:55} INFO - Started process 10441 to run task
+[2022-11-10T14:46:42.082-0300] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'dados_politicos', 'mkdir_temp', 'manual__2022-11-10T17:46:25.194268+00:00', '--job-id', '25', '--raw', '--subdir', 'DAGS_FOLDER/dados_politicos.py', '--cfg-path', '/var/folders/tf/5c5cm4z11mvb4z72rkp1jvxw0000gn/T/tmpjvb2p9oi']
+[2022-11-10T14:46:42.085-0300] {standard_task_runner.py:83} INFO - Job 25: Subtask mkdir_temp
+[2022-11-10T14:46:42.319-0300] {task_command.py:376} INFO - Running <TaskInstance: dados_politicos.mkdir_temp manual__2022-11-10T17:46:25.194268+00:00 [running]> on host mac-mikeias.local
+[2022-11-10T14:46:42.549-0300] {taskinstance.py:1590} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dados_politicos
+AIRFLOW_CTX_TASK_ID=mkdir_temp
+AIRFLOW_CTX_EXECUTION_DATE=2022-11-10T17:46:25.194268+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-11-10T17:46:25.194268+00:00
+[2022-11-10T14:46:42.551-0300] {subprocess.py:63} INFO - Tmp dir root location: 
+ /var/folders/tf/5c5cm4z11mvb4z72rkp1jvxw0000gn/T
+[2022-11-10T14:46:42.552-0300] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', '[[ -d /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/dados/temp ]] && exit 0 || mkdir /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/dados/temp']
+[2022-11-10T14:46:42.561-0300] {subprocess.py:86} INFO - Output:
+[2022-11-10T14:46:42.565-0300] {subprocess.py:97} INFO - Command exited with return code 0
+[2022-11-10T14:46:42.695-0300] {taskinstance.py:1401} INFO - Marking task as SUCCESS. dag_id=dados_politicos, task_id=mkdir_temp, execution_date=20221110T174625, start_date=20221110T174642, end_date=20221110T174642
+[2022-11-10T14:46:42.758-0300] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-11-10T14:46:42.821-0300] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check
