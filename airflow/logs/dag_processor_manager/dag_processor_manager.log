@@ -1,0 +1,11 @@
+[2022-11-10T13:32:43.474-0300] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2022-11-10T13:32:43.521-0300] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2022-11-10T13:32:43.522-0300] {manager.py:485} INFO - Checking for new files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags every 300 seconds
+[2022-11-10T13:32:43.522-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T13:32:43.523-0300] {manager.py:727} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T13:33:25.796-0300] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2022-11-10T13:34:04.708-0300] {manager.py:483} INFO - Processing files using up to 2 processes at a time 
+[2022-11-10T13:34:04.746-0300] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2022-11-10T13:34:04.747-0300] {manager.py:485} INFO - Checking for new files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags every 300 seconds
+[2022-11-10T13:34:04.747-0300] {manager.py:724} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
+[2022-11-10T13:34:04.748-0300] {manager.py:727} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/vote_consciente/airflow/dags
